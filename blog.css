@@ -1,0 +1,57 @@
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: hsl(47, 88%, 63%);
+}
+.card{
+    width: 335px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 5px 1px hsl(0, 0%, 7%);
+}
+img{
+    border-radius: 10px;
+}
+.learning{
+    background-color: hsl(47, 88%, 63%);
+    padding: 8px;
+    border-radius: 5px;
+    font-weight: bolder;
+    font-size: 16px;
+}
+.date{
+    color: hsl(0, 0%, 42%);
+    font-weight: 800; 
+}
+.mediumText{
+    font-size: 16px;
+    color: hsl(0, 0%, 7%);
+    font-weight: 800;
+    margin-bottom: 15px;  
+}
+.text{
+    color: hsl(0, 0%, 42%);
+    font-weight:500;
+    padding: auto;
+    margin-bottom: 10px;
+}
+.profile{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    
+}
+.profileimage{
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    display: block;  
+}
+h2{
+    font-size: 15px;
+    font-weight: bolder;
+}
