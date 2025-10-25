@@ -12,6 +12,12 @@
     padding: 20px;
     border-radius: 10px;
     box-shadow: 10px 5px 1px hsl(0, 0%, 7%);
+    transition: all 0.3s ease;
+}
+.card:hover{
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0,0, 0, 0.15);
+    background-color: #fafafa;
 }
 img{
     border-radius: 10px;
@@ -23,6 +29,7 @@ img{
     font-weight: bolder;
     font-size: 16px;
 }
+
 .date{
     color: hsl(0, 0%, 42%);
     font-weight: 800; 
