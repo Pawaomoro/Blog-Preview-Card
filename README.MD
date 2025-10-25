@@ -2,17 +2,6 @@
 
 A responsive blog preview card component built as part of a Frontend Mentor challenge. This project focuses on creating a visually appealing card design that matches the provided mockup.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Screenshot](#screenshot)
-- [Links](#links)
-- [Features](#features)
-- [Built With](#built-with)
-- [What I Learned](#what-i-learned)
-- [Challenges Faced](#challenges-faced)
-- [Installation](#installation)
-- [Author](#author)
 
 ## 🎯 Overview
 
