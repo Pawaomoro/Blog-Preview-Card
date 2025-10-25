@@ -1,7 +1,7 @@
 # Blog Preview Card
 
 A responsive blog preview card component built as part of a Frontend Mentor challenge. This project focuses on creating a visually appealing card design that matches the provided mockup.
-
+![Image](https://github.com/user-attachments/assets/84c4d363-4641-409a-9103-36b570305dc1)
 
 ## 🎯 Overview
 
